@@ -1,0 +1,1 @@
+para que este código funcione corretamente é necessário que você faça o download da pasta: Pasta-Ignore que se encontra no link X.
